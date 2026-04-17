@@ -10,20 +10,20 @@ Use the **strongest white bread flour** you can find (12–13% protein). Superma
 
 All quantities in baker's percentages relative to flour weight.
 
-| Ingredient | % | Weight (450g flour) |
+| Ingredient | % | Weight (650g flour) |
 |---|---|---|
-| Strong white bread flour | 100% | 450g |
-| Water (total) | 78% | 351g |
-| Active sourdough starter (100% hydration) | 15% | 68g |
-| Fine sea salt | 2% | 9g |
+| Strong white bread flour | 100% | 650g |
+| Water (total) | 78% | 507g |
+| Active sourdough starter (100% hydration) | 15% | 98g |
+| Fine sea salt | 2% | 13g |
 
-**Total dough weight:** ~878g  
-**Expected baked weight:** ~745g (roughly 15% baking loss)
+**Total dough weight:** ~1,268g  
+**Expected baked weight:** ~1,078g (roughly 15% baking loss)
 
 ### Scaling
 To change the loaf size, pick your flour weight and multiply:
-- Small loaf (350g flour): multiply all weights by 0.78×
-- Large loaf (600g flour): multiply all weights by 1.33×
+- Small loaf (450g flour): multiply all weights by 0.69×
+- Large loaf (900g flour): multiply all weights by 1.38×
 
 ---
 
@@ -31,7 +31,7 @@ To change the loaf size, pick your flour weight and multiply:
 
 - Digital scales (0.1g or 1g precision)
 - Large mixing bowl or lidded container for bulk ferment
-- Banneton (proofing basket), ~750g capacity — or a bowl lined with a well-floured cloth
+- Banneton (proofing basket), ~1kg capacity — or a bowl lined with a well-floured cloth
 - Dutch oven (cast iron, at least 4L)
 - Bench scraper
 - Lame or razor blade for scoring
@@ -75,9 +75,9 @@ Feed with white bread flour (the same flour you are baking with) for the revival
 
 Once the starter reliably doubles within 4–6 hours of a feed, do one final larger feed to produce the 68g needed for the recipe:
 
-- Discard to **30g**
-- Add **30g water + 30g flour**
-- Total produced: ~90g — use 68g in the dough, keep 22g as ongoing starter
+- Discard to **40g**
+- Add **40g water + 40g flour**
+- Total produced: ~120g — use 98g in the dough, keep 22g as ongoing starter
 
 Leave 4–8 hours at room temperature until peaked.
 
@@ -118,8 +118,8 @@ All times are approximations. **Watch the dough, not the clock.**
 
 ### 1. Autolyse (T + 0:00)
 
-- Weigh **450g strong white bread flour** into a large bowl
-- Weigh **331g water** (hold back 20g for dissolving salt later)
+- Weigh **650g strong white bread flour** into a large bowl
+- Weigh **477g water** (hold back 30g for dissolving salt later)
 - Mix by hand until no dry flour remains — 1–2 minutes, no more
 - Cover and rest at room temperature for **30–45 minutes**
 
@@ -131,7 +131,7 @@ White flour hydrates faster than wholemeal. After autolyse the dough will be smo
 
 ### 2. Add Starter (T + 0:45)
 
-- Pour **68g of peaked active starter** over the autolysed dough
+- Pour **98g of peaked active starter** over the autolysed dough
 - Incorporate using the pincer method: squeeze through the dough with your fingers, alternating with folding — repeat until no streaks remain (~2–3 minutes)
 - Cover and rest **30 minutes**
 
@@ -141,7 +141,7 @@ The dough will feel extensible and smooth. Because this is a high-hydration doug
 
 ### 3. Add Salt (T + 1:15)
 
-- Dissolve **9g salt** in the reserved 20g water
+- Dissolve **13g salt** in the reserved 30g water
 - Pour over the dough
 - Incorporate with the pincer method until fully mixed — ~1–2 minutes
 - The dough will feel tighter and more cohesive immediately after salt is added
