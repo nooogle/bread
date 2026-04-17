@@ -11,6 +11,7 @@ A knowledge base and recipe collection for home bread baking, with a focus on so
 | [`sourdough.md`](sourdough.md) | Sourdough principles: starter readiness, autolyse, bulk fermentation, shaping, baking |
 | [`spelt.md`](spelt.md) | Spelt flour properties, gluten behaviour, hydration guidance, handling rules |
 | [`recipes/wholemeal-spelt-sourdough.md`](recipes/wholemeal-spelt-sourdough.md) | A complete 100% wholemeal spelt sourdough recipe with formula, schedule, and method |
+| [`recipes/white-sourdough.md`](recipes/white-sourdough.md) | High-hydration German-style white sourdough (80%, 90/10 flour blend) with open crumb and thick crust |
 
 ---
 
