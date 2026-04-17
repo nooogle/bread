@@ -2,6 +2,8 @@
 
 A 100% wholemeal spelt sourdough loaf using traditional techniques. Dense and flavourful with a crackling crust — this is what spelt bread is meant to taste like. Do not expect the open crumb of a high-gluten wheat loaf; spelt's nature is a tighter, more even crumb.
 
+![Wholemeal spelt sourdough loaf](../images/spelt_1.jpeg)
+
 ---
 
 ## Formula
@@ -242,6 +244,8 @@ The loaf is done when:
 ---
 
 ## What to Expect
+
+![Crumb of wholemeal spelt sourdough](../images/spelt_2.jpeg)
 
 - **Crumb:** Close, even, and moist — this is correct for 100% wholemeal spelt. Not the open, holey crumb of white wheat sourdough.
 - **Crust:** Thin, crackly, deeply coloured
