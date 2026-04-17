@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(git --version)",
+      "Bash(gh --version)",
+      "Bash(gh auth *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git branch *)",
+      "Bash(git commit -m ' *)",
+      "Bash(gh repo *)",
+      "Bash(git commit *)",
+      "Bash(find /Users/jon/Documents/Claude/Projects/Bread/docs -type d -empty -delete)",
+      "Bash(git pull *)",
+      "Bash(git push *)"
+    ]
+  }
+}
