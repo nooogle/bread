@@ -53,6 +53,41 @@ Adjust for your conditions. This matters more in hot weather.
 
 ---
 
+## Starter Revival & Preparation
+
+If your starter has been dormant in the fridge, revive it before baking day.
+
+### Revival feeds
+
+Each feed: discard to 25g, add 25g water + 25g flour (1:1:1 by weight). Leave 10–12 hours at room temperature (20–22°C) between feeds.
+
+| Dormancy | Number of revival feeds |
+|---|---|
+| Up to 2 weeks | 2 feeds |
+| More than 2 weeks | 3 feeds |
+
+A sluggish starter can be encouraged by adding a pinch of wholegrain rye flour to one feed — the extra minerals spur fermentation.
+
+### Build feed
+
+Once the starter reliably doubles within 4–6 hours of a feed, do one final larger feed to produce the 68g needed for the recipe:
+
+- Discard to **30g**
+- Add **30g water + 30g flour**
+- Total produced: ~90g — use 68g in the dough, keep 22g as ongoing starter
+
+Leave 4–8 hours at room temperature until peaked.
+
+### Signs of readiness
+
+- Doubled from its fed weight
+- Top is domed, not flat or sunken
+- Interior is bubbly and webby when stirred
+- Smells tangy and yeasty — not sharp, alcoholic, or like nail varnish
+- Float test: a small spoonful dropped in water floats
+
+---
+
 ## Schedule
 
 This recipe assumes you are starting with a **starter at peak** (just doubled in size). The schedule below targets a same-day bulk fermentation and overnight cold proof for baking the next morning.
