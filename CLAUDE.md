@@ -33,6 +33,7 @@ spelt.md                           — spelt flour properties, hydration, handli
 sourdough.md                       — sourdough principles: starter, fermentation, shaping, baking
 recipes/
   wholemeal-spelt-sourdough.md     — 100% wholemeal spelt sourdough loaf
+  white-sourdough.md               — high-hydration open-crumb white sourdough
 ```
 
 ## Key Baking Principles
