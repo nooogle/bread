@@ -1,6 +1,8 @@
 # White Sourdough
 
-A high-hydration white sourdough with an open, irregular crumb and blistered crust. This is a more demanding bake than the wholemeal spelt loaf — the dough is wetter and more extensible, requiring confident handling and good timing. The reward is a loaf with a thin, crackling crust, large uneven holes, and a mild, complex flavour.
+A high-hydration white sourdough with an open, irregular crumb and thick, deeply coloured crust — the kind of loaf you'd find at a German farmer's market. The blend of strong white bread flour with 10% wholemeal wheat adds fermentation activity, subtle flavour depth, and a creamy off-white crumb colour without compromising the open structure.
+
+This is a more demanding bake than the wholemeal spelt loaf — the dough is wetter and more extensible, requiring confident handling and good timing. The reward is a loaf with a dramatic ear, large uneven holes, and a mild, complex flavour.
 
 Use the **strongest white bread flour** you can find (12–13% protein). Supermarket bread flour works, but a strong Canadian or high-protein milling flour will give noticeably better oven spring and a more open crumb.
 
@@ -8,17 +10,22 @@ Use the **strongest white bread flour** you can find (12–13% protein). Superma
 
 ## Formula
 
-All quantities in baker's percentages relative to flour weight.
+All quantities in baker's percentages relative to total flour weight.
 
 | Ingredient | % | Weight (650g flour) |
 |---|---|---|
-| Strong white bread flour | 100% | 650g |
-| Water (total) | 78% | 507g |
-| Active sourdough starter (100% hydration) | 15% | 98g |
+| Strong white bread flour | 90% | 585g |
+| Wholemeal wheat flour | 10% | 65g |
+| Water (total) | 80% | 520g |
+| Active starter (100% hydration, white flour) | 20% | 130g |
 | Fine sea salt | 2% | 13g |
 
-**Total dough weight:** ~1,268g  
-**Expected baked weight:** ~1,078g (roughly 15% baking loss)
+**Total dough weight:** ~1,313g  
+**Expected baked weight:** ~1,115g (roughly 15% baking loss)
+
+Water split: 500g into autolyse, 20g reserved for dissolving salt.
+
+The starter is maintained and fed on white bread flour throughout — the wholemeal character comes from the dough flour only.
 
 ### Scaling
 To change the loaf size, pick your flour weight and multiply:
@@ -31,7 +38,7 @@ To change the loaf size, pick your flour weight and multiply:
 
 - Digital scales (0.1g or 1g precision)
 - Large mixing bowl or lidded container for bulk ferment
-- Banneton (proofing basket), ~1kg capacity — or a bowl lined with a well-floured cloth
+- Oval banneton (proofing basket), ~1kg capacity — or a bowl lined with a well-floured cloth
 - Dutch oven (cast iron, at least 4L)
 - Bench scraper
 - Lame or razor blade for scoring
@@ -58,26 +65,26 @@ Adjust for your conditions. In a warm kitchen, use cold water or add ice. Temper
 
 ## Starter Revival & Preparation
 
-If your starter has been dormant in the fridge, revive it before baking day.
+If your starter has been dormant in the fridge, revive it before baking day. Feed on **white bread flour** throughout — revival and build feeds alike.
 
 ### Revival feeds
 
-Each feed: discard to 25g, add 25g water + 25g flour (1:1:1 by weight). Leave 10–12 hours at room temperature (20–22°C) between feeds.
+Each feed: discard to 25g, add 25g water + 25g white bread flour (1:1:1 by weight). Leave 10–12 hours at room temperature (20–22°C) between feeds.
 
 | Dormancy | Number of revival feeds |
 |---|---|
 | Up to 2 weeks | 2 feeds |
 | More than 2 weeks | 3 feeds |
 
-Feed with white bread flour (the same flour you are baking with) for the revival feeds — this gives the starter the right balance of nutrients and flavours for a white loaf. A pinch of wholegrain rye in one feed can encourage a sluggish starter.
+A sluggish starter can be encouraged by adding a pinch of wholegrain rye flour to one feed — the extra minerals spur fermentation activity.
 
 ### Build feed
 
-Once the starter reliably doubles within 4–6 hours of a feed, do one final larger feed to produce the 68g needed for the recipe:
+Once the starter reliably doubles within 4–6 hours of a feed, do one final larger feed to produce the 130g needed for the recipe:
 
-- Discard to **40g**
-- Add **40g water + 40g flour**
-- Total produced: ~120g — use 98g in the dough, keep 22g as ongoing starter
+- Discard to **45g**
+- Add **65g water + 65g white bread flour**
+- Total produced: ~175g — use 130g in the dough, keep 45g as ongoing starter
 
 Leave 4–8 hours at room temperature until peaked.
 
@@ -98,17 +105,19 @@ This recipe assumes you are starting with a **starter at peak** (just doubled in
 | Step | Time (approx) |
 |---|---|
 | Autolyse | T + 0:00 |
-| Add starter | T + 0:45 |
-| Add salt | T + 1:15 |
-| Stretch and fold set 1 | T + 1:30 |
-| Lamination | T + 2:00 |
-| Coil fold 1 | T + 2:30 |
-| Coil fold 2 | T + 3:00 |
-| End of bulk ferment | T + 5:30 – 7:30 |
-| Pre-shape + bench rest | T + 6:00 |
-| Final shape | T + 6:30 |
-| Into fridge (cold retard) | T + 6:40 |
-| Bake next morning | T + 16:00 – 20:00 |
+| Add starter | T + 1:00 |
+| Add salt | T + 1:30 |
+| Stretch and fold set 1 | T + 2:00 |
+| Stretch and fold set 2 | T + 2:30 |
+| Lamination | T + 3:00 |
+| Coil fold 1 | T + 3:30 |
+| Coil fold 2 | T + 4:00 |
+| Coil fold 3 *(if needed)* | T + 4:30 |
+| End of bulk ferment | T + 5:30 – 7:00 |
+| Pre-shape + bench rest | When bulk is complete |
+| Final shape | ~30 min after pre-shape |
+| Into fridge (cold retard) | ~5 min after final shape |
+| Bake next morning | T + 15:00 – 20:00 |
 
 All times are approximations. **Watch the dough, not the clock.**
 
@@ -118,54 +127,53 @@ All times are approximations. **Watch the dough, not the clock.**
 
 ### 1. Autolyse (T + 0:00)
 
-- Weigh **650g strong white bread flour** into a large bowl
-- Weigh **477g water** (hold back 30g for dissolving salt later)
-- Mix by hand until no dry flour remains — 1–2 minutes, no more
-- Cover and rest at room temperature for **30–45 minutes**
+- Weigh **585g strong white bread flour** and **65g wholemeal wheat flour** into a large bowl and mix the two flours together
+- Add **500g water** and mix by hand until no dry flour remains — 1–2 minutes, no more
+- Cover and rest at room temperature for **45–60 minutes**
 
-White flour hydrates faster than wholemeal. After autolyse the dough will be smooth, slightly tacky, and already showing some extensibility.
+White flour's stronger gluten tolerates a longer autolyse than spelt — the full 60 minutes makes a high-hydration dough significantly more manageable and extensible.
 
-> **Why hold back water?** The reserved 20g is used to dissolve the salt and introduces it evenly. It also lets you assess the dough after autolyse — if it feels unusually stiff, you can incorporate the reserved water more generously before adding the salt.
+> **Why hold back water?** The reserved 20g is used to dissolve the salt and introduce it evenly without having to over-work the dough.
 
 ---
 
-### 2. Add Starter (T + 0:45)
+### 2. Add Starter (T + 1:00)
 
-- Pour **98g of peaked active starter** over the autolysed dough
+- Pour **130g of peaked active starter** over the autolysed dough
 - Incorporate using the pincer method: squeeze through the dough with your fingers, alternating with folding — repeat until no streaks remain (~2–3 minutes)
 - Cover and rest **30 minutes**
 
-The dough will feel extensible and smooth. Because this is a high-hydration dough, it will be noticeably wetter and stickier than a lower-hydration loaf — this is correct.
+The dough will feel extensible and quite wet. At 80% hydration this is correct — it will tighten considerably once salt is added and as the fold sequence progresses.
 
 ---
 
-### 3. Add Salt (T + 1:15)
+### 3. Add Salt (T + 1:30)
 
-- Dissolve **13g salt** in the reserved 30g water
+- Dissolve **13g salt** in the reserved 20g water
 - Pour over the dough
 - Incorporate with the pincer method until fully mixed — ~1–2 minutes
-- The dough will feel tighter and more cohesive immediately after salt is added
-- Cover and rest **15 minutes**
+- The dough will feel noticeably tighter and more cohesive after salt is added
+- Cover and rest **30 minutes**
 
 ---
 
-### 4. Stretch and Fold — Set 1 (T + 1:30)
+### 4. Stretch and Folds — Sets 1 and 2 (T + 2:00 and T + 2:30)
 
-Perform **one set** of stretch and folds before moving to lamination.
+Perform **2 sets of stretch and folds**, spaced 30 minutes apart.
 
 **One set:**
 1. Wet your hand to prevent sticking
 2. Grab the dough on the far side, stretch up until resistance, fold over to the near side
 3. Rotate the bowl 90° and repeat — four folds in total = one set
-4. Cover and rest **30 minutes**
+4. Cover and rest 30 minutes
 
-This first set starts building the gluten network before the more intensive lamination step.
+These two sets build the initial gluten network before the more intensive lamination step.
 
 ---
 
-### 5. Lamination (T + 2:00)
+### 5. Lamination (T + 3:00)
 
-Lamination is the key technique for developing structure and an open crumb in high-hydration white sourdough. Performed once, it replaces further stretch and fold sets.
+Lamination is the key technique for developing structure and an open crumb in high-hydration white sourdough. Performed once, after the two stretch and fold sets.
 
 1. **Wet your work surface generously** — the dough should slide, not stick
 2. Pour the dough out onto the wet surface
@@ -180,16 +188,16 @@ After lamination the dough is delicate and should not be stretched aggressively.
 
 ---
 
-### 6. Coil Folds (T + 2:30 and T + 3:00)
+### 6. Coil Folds (T + 3:30 onwards)
 
-Perform **2 sets of coil folds**, spaced 30 minutes apart.
+Perform **2–3 sets of coil folds**, spaced 30 minutes apart. A third set is only needed if the dough still feels notably slack after the second.
 
 **One coil fold:**
 1. Slide both hands under the centre of the dough, lift gently
 2. Let one end fall and fold under, then lower and let the other end fold under
 3. Rotate 90° and repeat once — that is one coil fold complete
 
-After the **2nd coil fold**, leave the dough completely undisturbed for the remainder of bulk fermentation.
+After the final set, leave the dough completely undisturbed for the remainder of bulk fermentation.
 
 ---
 
@@ -197,51 +205,51 @@ After the **2nd coil fold**, leave the dough completely undisturbed for the rema
 
 The dough is ready to shape when:
 
-- **Volume has increased by 75–100%** (roughly doubled)
-- The surface looks bubbly, with visible gas bubbles beneath
-- The edges of the dough against the container are domed
-- When jiggled, the dough moves as a cohesive, airy, slightly wobbly mass
-- The dough feels noticeably lighter and more pillowy than at the start
+- **Volume has increased by 50–75%**
+- The surface looks domed and bubbly, with visible gas just beneath
+- The edges of the dough against the container are slightly domed
+- When jiggled, the dough moves as a cohesive, airy mass
+- A finger poke springs back slowly, but not all the way
 
-At 20°C, this typically occurs **4.5–6 hours** after the starter was added (T + 5:30 to T + 7:30 overall). In a warmer kitchen (23–24°C), expect **3–4.5 hours**.
+At 21–22°C, this typically occurs **4.5–6 hours** after the starter was added (T + 5:30 to T + 7:00 overall). Warmer kitchens shorten this; cooler kitchens lengthen it.
 
-> **Do not under-ferment.** Unlike spelt, strong white flour benefits from a full bulk ferment. An under-fermented white loaf will spring but give a tight, rubbery crumb — not an open one. Equally, over-fermentation (dough becomes very slack and sticky, loses its jiggle) will collapse in the oven.
+> **Do not over-ferment.** Over-fermentation at 80% hydration produces a very slack, hard-to-shape dough that will spread rather than rise in the oven. The 50–75% rise target is intentionally conservative — the loaf continues proofing during the cold retard.
 
 ---
 
 ### 8. Pre-Shape
 
-1. Gently scrape the dough onto a **lightly floured** surface (less flour than you think — some stickiness helps)
+1. Gently scrape the dough onto a **lightly floured** surface
 2. Using a bench scraper in one hand and your other hand on top, drag the dough towards you in a smooth motion to build surface tension
 3. Repeat 2–3 times, rotating slightly each time, until the dough forms a taut round
 4. Cover with an inverted bowl or damp cloth and bench rest for **25–30 minutes**
 
-The bench rest relaxes the gluten enough for a confident final shape without tearing.
-
 ---
 
-### 9. Final Shape
+### 9. Final Shape — Bâtard
 
-1. Flour your banneton generously with **rice flour** (it doesn't absorb and prevents sticking far better than wheat flour)
+A **bâtard** (oval) is recommended — it produces the most characteristically German artisan look, a dramatic ear, and a better crumb structure for a large loaf.
+
+1. Flour your oval banneton generously with **rice flour** (it doesn't absorb and prevents sticking far better than wheat flour)
 2. Flip the dough — smooth side down, rough side up
 3. Gently stretch into a rough rectangle
-4. Fold the top third down, then the bottom third up (letter fold)
+4. Fold the **left and right sides in to the centre**
 5. Roll from the top towards you, using your hands to drag back slightly and build tension as you roll
 6. Place **seam-side up** in the banneton
 7. Pinch the seam gently to seal, dust the top with rice flour
 8. Cover with a shower cap, cling film, or damp cloth
 
-Shape **firmly and with purpose.** For a high-hydration dough especially, excessive handling means a flatter loaf. One confident pass is far better than repeated adjustments.
+Shape **firmly and with purpose.** High-hydration dough rewards decisiveness — one confident pass is far better than repeated adjustments.
 
 ---
 
 ### 10. Cold Retard
 
 - Place the covered banneton in the fridge at **4–5°C**
-- Leave for **8–16 hours** — overnight is ideal
+- Leave for **10–16 hours** — overnight is ideal
 - Do not let it warm up before baking; bake straight from the fridge
 
-The cold retard firms the dough considerably, making scoring much easier and giving better oven spring. It also develops flavour — acetic acid (sharper tang) increases at cold temperatures. A longer retard (14–16 hours) will give a slightly more pronounced sour note; 8–10 hours will be milder.
+White flour's stronger gluten holds well through a longer retard than spelt. The extended cold develops a mild acidity that gives a proper artisan loaf its backbone. A longer retard (14–16 hours) will give a slightly more pronounced sour note; 10 hours will be milder and sweeter.
 
 ---
 
@@ -250,31 +258,37 @@ The cold retard firms the dough considerably, making scoring much easier and giv
 **Preheat:** Place the Dutch oven (with lid on) in the oven and preheat to **250°C (230°C fan / 480°F)** for at least **45 minutes**. The thermal mass must be fully saturated — do not rush this.
 
 **Score:** Remove the dough from the fridge. Cut a piece of baking parchment to fit the base of your Dutch oven. Invert the banneton onto the parchment — the smooth side is now up. Score immediately:
-- A single curved ear score at **30–45° to the surface** — this is the standard for open-crumb loaves and promotes the best oven spring
-- The cut should be **decisive and swift**: 3–4cm deep, in one motion
+- A **single deep ear cut along the length of the bâtard**, at 30–45° to the surface — this is the classic cut and produces a dramatic ear
+- Or two to three parallel diagonal cuts for a more rustic German look
+- Cut **decisively and swiftly** — hesitation drags rather than slices
 
 **Into the oven:**
 1. Lift the dough using the parchment, lower carefully into the hot Dutch oven
 2. Replace the lid immediately
-3. **Bake at 250°C with lid on: 20 minutes** — steam phase
-4. Remove lid, reduce to **220°C (200°C fan)**
-5. **Bake without lid: 20–25 minutes** — crust development
+
+| Phase | Temperature | Time |
+|---|---|---|
+| Lid on (steam phase) | 250°C / 230°C fan | 20 min |
+| Lid off (crust phase) | 220°C / 200°C fan | 25–30 min |
+
+The extra time uncovered (compared to the spelt recipe) builds the thick, deeply coloured crust characteristic of a German artisan loaf.
 
 The loaf is done when:
-- Deep golden to dark mahogany crust — do not pull it early, colour means flavour
 - Sounds hollow when tapped on the base
 - Internal temperature: **96–98°C**
+- Deep golden to dark mahogany crust — do not pull early; colour means flavour
 
-**Cool on a wire rack for a minimum of 1 hour** before slicing. For the best crumb structure, 2 hours is better. The crumb is still setting and steam is still escaping — cutting early gives a gummy, compressed texture.
+**Cool on a wire rack for at least 1.5 hours** before slicing. The open crumb of a high-hydration loaf takes longer to set than a tighter crumb. Cutting early will produce a gummy, collapsing interior.
 
 ---
 
 ## What to Expect
 
-- **Crumb:** Open, irregular, with large and small holes — more open near the crust, slightly tighter toward the centre
-- **Crust:** Thin, crackling, deeply coloured with blisters from the steam phase
-- **Flavour:** Clean, mild tang, wheaty sweetness — more complex than a commercial loaf, less pronounced sour than a rye or long-ferment
-- **Shelf life:** Good. Best on days 1–2; still excellent on day 3; makes superb toast on days 3–4
+- **Crumb:** Large, irregular holes with thin, almost translucent crumb structure between them — more open near the crust, slightly tighter toward the centre
+- **Crust:** Thick, crackly, deep golden-brown
+- **Colour:** Creamy off-white from the wholemeal addition
+- **Flavour:** Clean wheaty depth, mild tang, slightly sweet — flavour peaks on day 2
+- **Shelf life:** 3–4 days well wrapped; excellent toast on days 3–4
 
 ---
 
@@ -282,9 +296,9 @@ The loaf is done when:
 
 | Variation | Change |
 |---|---|
-| More open crumb | Increase hydration to 80–82%; use high-protein Canadian flour |
-| More sour flavour | Extend cold retard to 18–20 hours; or reduce inoculation to 10% for slower, more acidic fermentation |
-| Milder, sweeter flavour | Reduce cold retard to 8 hours; use 18% inoculation for faster, cleaner fermentation |
-| Faster same-day bake | Increase starter to 20%, skip cold retard, proof at room temperature ~2 hours after shaping |
-| Seeded crust | Spray the scored dough with water and roll in sesame or poppy seeds before lowering into the Dutch oven |
-| 10% wholemeal | Replace 45g white flour with wholemeal — adds flavour and nutrition with minimal structural impact |
+| More open crumb | Increase hydration to 82–84%; use high-protein Canadian flour |
+| More sour flavour | Extend cold retard to 16–18 hours; or reduce inoculation to 15% for slower fermentation |
+| Milder, sweeter flavour | Reduce cold retard to 10 hours; 20% inoculation keeps fermentation clean |
+| Faster same-day bake | Increase starter to 25%, skip cold retard, proof at room temperature ~2 hours after shaping |
+| More wholemeal character | Increase wholemeal wheat to 20%, reduce white to 80% — expect a slightly tighter crumb |
+| Seeded crust | Spray the scored dough with water and roll in sesame or caraway seeds before loading |
