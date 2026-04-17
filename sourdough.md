@@ -110,6 +110,18 @@ Performed during the first half of bulk fermentation to build strength in the do
 - Let each end fold down as you lower it back
 - Rotate 90°, repeat once more — that is one coil fold set
 
+**Lamination** (advanced — used for open-crumb white sourdoughs):
+
+Lamination builds structure through thin, layered stretching rather than repeated folding. It is performed once, roughly halfway through bulk fermentation, after two sets of stretch and folds.
+
+1. Wet a large work surface generously
+2. Pour the dough out and, using wet hands, gently stretch outward in all directions to form a large, thin rectangle — aim for almost translucent in places
+3. Fold one third over the centre, then the opposite third on top (letter fold)
+4. Rotate 90°, letter-fold again
+5. Return the dough to its container
+
+If the dough tears before it is fully stretched, stop and rest it for 5 minutes before continuing. After lamination, continue with coil folds — do not use stretch-and-folds, which are too aggressive at this stage.
+
 After the final set, leave the dough completely undisturbed until bulk is complete.
 
 ---
