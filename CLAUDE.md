@@ -30,6 +30,7 @@ Pick your target flour weight, then multiply each percentage:
 ```
 CLAUDE.md                          — this file
 spelt.md                           — spelt flour properties, hydration, handling
+rye.md                             — rye flour properties, pentosans, enzyme activity, hydration, types
 sourdough.md                       — sourdough principles: starter, fermentation, shaping, baking
 recipes/
   wholemeal-spelt-sourdough.md     — 100% wholemeal spelt sourdough loaf

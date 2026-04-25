@@ -32,6 +32,21 @@ The amount of starter added to a dough, expressed as a percentage of total flour
 
 For spelt specifically, 15% is appropriate. Spelt ferments faster than wheat, so you do not need to compensate with a higher inoculation.
 
+### Rye Starters
+
+Rye flour produces exceptionally active starters. The bran carries a dense, diverse population of wild yeasts and lactic acid bacteria, and rye's naturally high enzyme activity converts starches to sugars rapidly — giving the microorganisms more food, faster. This is why a neglected wheat starter often responds well to a single rye feed.
+
+**Hydration:** A rye starter is typically maintained at **100% hydration**, but this does not mean it will look or behave like a liquid wheat starter. Because rye's pentosans (water-binding polysaccharides) absorb several times their weight in water, a 100% rye starter forms a **thick, pasty consistency** — similar to wet beach sand or hummus — rather than a pourable liquid. If a rye starter looks thin, it has probably over-fermented or needs more flour.
+
+**Behaviour differences from wheat:**
+- Peaks faster — especially in a warm kitchen, it can double within 3–4 hours
+- Smells more assertively sour and earthy, less yeasty-sweet than a wheat starter
+- Has a shorter window at peak before collapsing — use it on the way up or at peak, not after
+
+**Using rye to boost a wheat starter:** Adding 10–20% rye flour to a wheat starter feed (by weight, replacing an equivalent amount of the wheat flour) increases activity noticeably without fundamentally changing the starter's character. This is useful in cold kitchens or with a sluggish starter.
+
+**The German tradition (Anstellgut):** Traditional German rye breadmaking maintains a fully mature rye starter — *Anstellgut* — at around 80–100% hydration, used at peak when it reaches a pH of approximately 3.9–4.2. This level of acidity is not merely for flavour; it is essential for controlling rye's amylase enzymes during baking (see [rye.md](rye.md) for detail).
+
 ---
 
 ## Autolyse
