@@ -9,7 +9,7 @@ A knowledge base and recipe collection for home bread baking, with a focus on so
 | File | What it covers |
 |---|---|
 | [`sourdough.md`](sourdough.md) | Sourdough principles: starter readiness, autolyse, bulk fermentation, shaping, baking |
-| [`spelt.md`](spelt.md) | Spelt flour properties, gluten behaviour, hydration guidance, handling rules |
+| [`flours/`](flours/) | Flour guides (spelt, rye) — see the flours index |
 | [`recipes/`](recipes/) | All recipes — see the recipe index |
 
 ---
@@ -41,7 +41,7 @@ If you're new here, start with the [wholemeal spelt sourdough recipe](recipes/wh
 
 Before you bake, it's worth reading:
 - [Sourdough principles](sourdough.md) — especially the starter readiness and bulk fermentation sections
-- [Spelt properties](spelt.md) — spelt behaves very differently from modern wheat, and knowing why prevents common failures
+- [Spelt properties](flours/spelt.md) — spelt behaves very differently from modern wheat, and knowing why prevents common failures
 
 ---
 
