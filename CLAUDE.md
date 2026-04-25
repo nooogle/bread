@@ -34,6 +34,7 @@ sourdough.md                       — sourdough principles: starter, fermentati
 recipes/
   wholemeal-spelt-sourdough.md     — 100% wholemeal spelt sourdough loaf
   white-sourdough.md               — high-hydration open-crumb white sourdough
+  pain-de-campagne.md              — rustic country loaf on a rye sourdough starter
 ```
 
 ## Key Baking Principles
