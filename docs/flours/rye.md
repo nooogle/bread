@@ -128,7 +128,7 @@ Rye ferments faster than wheat, partly because its starch is more accessible to 
 - **Bulk fermentation:** At typical UK room temperature (18–22°C) with 15% inoculation, a medium-rye loaf (50% rye) bulk ferments in roughly 3–4 hours. For high-rye loaves (80–100%), bulk fermentation is shorter and less dramatic — the dough will not double; look for small bubbles at the surface and a slight rise of 20–30%.
 - **Over-fermentation risk:** High-rye doughs that over-ferment become overly acidic and produce a harsh, vinegary bread rather than the balanced earthiness you want. Do not aim for maximum sourness — rye is naturally flavourful and doesn't need pushing.
 - **Cold retard:** Less critical for rye than for wheat, since there is no gluten to firm up in the cold. Cold retarding can help develop flavour, particularly for medium-rye loaves in a tin. For 100% rye loaves, room-temperature proofing and baking the same day is the traditional approach.
-- **Starter choice:** A rye starter (see [sourdough.md](sourdough.md)) is the natural pairing for rye bread. A wheat starter works but produces a milder result. Using a peaked rye starter at 15–20% inoculation is a reliable starting point for most rye proportions.
+- **Starter choice:** A rye starter (see [sourdough.md](../sourdough.md)) is the natural pairing for rye bread. A wheat starter works but produces a milder result. Using a peaked rye starter at 15–20% inoculation is a reliable starting point for most rye proportions.
 
 ---
 

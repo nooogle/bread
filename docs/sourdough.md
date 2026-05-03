@@ -45,7 +45,7 @@ Rye flour produces exceptionally active starters. The bran carries a dense, dive
 
 **Using rye to boost a wheat starter:** Adding 10–20% rye flour to a wheat starter feed (by weight, replacing an equivalent amount of the wheat flour) increases activity noticeably without fundamentally changing the starter's character. This is useful in cold kitchens or with a sluggish starter.
 
-**The German tradition (Anstellgut):** Traditional German rye breadmaking maintains a fully mature rye starter — *Anstellgut* — at around 80–100% hydration, used at peak when it reaches a pH of approximately 3.9–4.2. This level of acidity is not merely for flavour; it is essential for controlling rye's amylase enzymes during baking (see [rye.md](rye.md) for detail).
+**The German tradition (Anstellgut):** Traditional German rye breadmaking maintains a fully mature rye starter — *Anstellgut* — at around 80–100% hydration, used at peak when it reaches a pH of approximately 3.9–4.2. This level of acidity is not merely for flavour; it is essential for controlling rye's amylase enzymes during baking (see [rye.md](flours/rye.md) for detail).
 
 ---
 

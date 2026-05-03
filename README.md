@@ -1,68 +1,35 @@
-# 🍞 Bread
+# Bread
 
-A knowledge base and recipe collection for home bread baking, with a focus on sourdough and ancient grains. Built with AI assistance, real recipes, and human feedback — with an emphasis on evidence-based information wherever possible.
+Bread is a small MkDocs site for home bread baking notes, flour guides, and sourdough recipes.
 
----
+## Editing
 
-## What's in here
+All site content now lives in `docs/`.
 
-| File | What it covers |
-|---|---|
-| [`sourdough.md`](sourdough.md) | Sourdough principles: starter readiness, autolyse, bulk fermentation, shaping, baking |
-| [`flours/`](flours/) | Flour guides (spelt, rye) — see the flours index |
-| [`recipes/`](recipes/) | All recipes — see the recipe index |
+- Edit pages in `docs/`
+- Add images in `docs/images/`
+- Update navigation in `mkdocs.yml` when you add or move pages
 
----
+## Local preview
 
-## How recipes are expressed
+Install dependencies:
 
-All recipes use **baker's percentages** — every ingredient is expressed as a percentage of total flour weight (flour is always 100%).
-
-```
-Ingredient %  =  (ingredient weight / total flour weight) × 100
+```bash
+pip install -r requirements.txt
 ```
 
-**Example (450g flour loaf):**
+Run the dev server:
 
-| Ingredient | % | Weight |
-|---|---|---|
-| Wholemeal spelt flour | 100% | 450g |
-| Water | 73% | 329g |
-| Starter | 15% | 68g |
-| Salt | 2% | 9g |
+```bash
+mkdocs serve
+```
 
-Baker's percentages make recipes easy to scale: pick any flour weight and multiply everything else by the same factor.
+Build the site:
 
----
+```bash
+mkdocs build --strict
+```
 
-## Quick start
+## Publishing
 
-If you're new here, start with the [wholemeal spelt sourdough recipe](recipes/wholemeal-spelt-sourdough.md). It has everything you need: a full formula, equipment list, step-by-step method, and a baking schedule.
-
-Before you bake, it's worth reading:
-- [Sourdough principles](sourdough.md) — especially the starter readiness and bulk fermentation sections
-- [Spelt properties](flours/spelt.md) — spelt behaves very differently from modern wheat, and knowing why prevents common failures
-
----
-
-## Guiding principles
-
-- **Temperature governs timing.** Fermentation times are guidelines; dough behaviour is the real signal.
-- **Evidence over folklore.** Claims here are grounded in what's known about fermentation, gluten chemistry, and food science — not just tradition.
-- **Less handling for ancient grains.** Spelt, einkorn, and emmer have fragile gluten. Treat them gently.
-- **Hydration is flour-dependent.** Always test a new bag; absorption varies significantly even within the same variety.
-
----
-
-## Contributing
-
-This project grows through real bakes, human feedback, and iterative improvement. Contributions welcome — whether that's a new recipe, a correction, better evidence for an existing claim, or notes from your own experiments.
-
----
-
-## Roadmap
-
-- [ ] More ancient grain guides (einkorn, emmer, rye)
-- [ ] Additional recipes (mixed-grain loaves, enriched breads)
-- [ ] Troubleshooting guide with photos
-- [ ] Evidence references and source links for key claims
+Pushing to `main` triggers the GitHub Pages workflow in `.github/workflows/pages.yml`.

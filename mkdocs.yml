@@ -1,0 +1,66 @@
+site_name: Bread
+site_description: Home bread baking notes, flour guides, and sourdough recipes.
+site_url: https://nooogle.github.io/bread/
+repo_url: https://github.com/nooogle/bread
+repo_name: nooogle/bread
+docs_dir: docs
+site_dir: site
+use_directory_urls: true
+
+nav:
+  - Home: index.md
+  - Sourdough: sourdough.md
+  - Flour Guides:
+      - Overview: flours/index.md
+      - Spelt: flours/spelt.md
+      - Rye: flours/rye.md
+  - Recipes:
+      - Overview: recipes/index.md
+      - Wholemeal Spelt Sourdough: recipes/wholemeal-spelt-sourdough.md
+      - White Sourdough: recipes/white-sourdough.md
+      - Pain de Campagne: recipes/pain-de-campagne.md
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: brown
+      accent: amber
+  font:
+    text: Bitter
+    code: IBM Plex Mono
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nooogle/bread
