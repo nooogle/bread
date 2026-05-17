@@ -9,6 +9,7 @@ use_directory_urls: true
 
 nav:
   - Home: index.md
+  - Bread Calculators: calculator.md
   - Sourdough: sourdough.md
   - Flour Guides:
       - Overview: flours/index.md
@@ -59,6 +60,9 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/sourdough-calculator.js
 
 extra:
   social:

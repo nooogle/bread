@@ -2,6 +2,8 @@
 
 A knowledge base and recipe collection for home bread baking, with a focus on sourdough and ancient grains. Built with AI assistance, real recipes, and human feedback — with an emphasis on evidence-based information wherever possible.
 
+[Open the bread calculators](calculator.md){ .md-button .md-button--primary }
+
 ---
 
 ## What's in here
@@ -32,6 +34,8 @@ Ingredient %  =  (ingredient weight / total flour weight) × 100
 | Salt | 2% | 9g |
 
 Baker's percentages make recipes easy to scale: pick any flour weight and multiply everything else by the same factor.
+
+If you want the site to do the arithmetic for you, use the [bread calculators](calculator.md) for sourdough and commercial-yeast doughs.
 
 ---
 

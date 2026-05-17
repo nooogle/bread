@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://nooogle.github.io/bread/</loc>
-         <lastmod>2026-05-03</lastmod>
+         <lastmod>2026-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://nooogle.github.io/bread/calculator/</loc>
+         <lastmod>2026-05-17</lastmod>
     </url>
     <url>
          <loc>https://nooogle.github.io/bread/sourdough/</loc>
-         <lastmod>2026-05-03</lastmod>
+         <lastmod>2026-05-17</lastmod>
     </url>
     <url>
          <loc>https://nooogle.github.io/bread/flours/</loc>
-         <lastmod>2026-05-03</lastmod>
+         <lastmod>2026-05-17</lastmod>
     </url>
     <url>
          <loc>https://nooogle.github.io/bread/flours/rye/</loc>
-         <lastmod>2026-05-03</lastmod>
+         <lastmod>2026-05-17</lastmod>
     </url>
     <url>
          <loc>https://nooogle.github.io/bread/flours/spelt/</loc>
-         <lastmod>2026-05-03</lastmod>
+         <lastmod>2026-05-17</lastmod>
     </url>
     <url>
          <loc>https://nooogle.github.io/bread/recipes/</loc>
-         <lastmod>2026-05-03</lastmod>
+         <lastmod>2026-05-17</lastmod>
     </url>
     <url>
          <loc>https://nooogle.github.io/bread/recipes/pain-de-campagne/</loc>
-         <lastmod>2026-05-03</lastmod>
+         <lastmod>2026-05-17</lastmod>
     </url>
     <url>
          <loc>https://nooogle.github.io/bread/recipes/white-sourdough/</loc>
-         <lastmod>2026-05-03</lastmod>
+         <lastmod>2026-05-17</lastmod>
     </url>
     <url>
          <loc>https://nooogle.github.io/bread/recipes/wholemeal-spelt-sourdough/</loc>
-         <lastmod>2026-05-03</lastmod>
+         <lastmod>2026-05-17</lastmod>
     </url>
 </urlset>

@@ -62,3 +62,287 @@
 .md-tabs__link {
   font-weight: 600;
 }
+
+.bread-calculator-guide {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.bread-calculator-guide__card {
+  padding: 1.25rem;
+  border: 1px solid rgba(111, 67, 34, 0.14);
+  border-radius: 1.25rem;
+  background:
+    radial-gradient(circle at top right, rgba(214, 177, 105, 0.14), transparent 34%),
+    linear-gradient(180deg, rgba(255, 251, 245, 0.96), rgba(243, 232, 213, 0.94));
+  box-shadow: 0 18px 40px rgba(74, 40, 19, 0.08);
+}
+
+.bread-calculator-guide__card h2 {
+  margin-top: 0.2rem;
+  margin-bottom: 0.55rem;
+}
+
+.bread-calculator {
+  display: grid;
+  gap: 1.5rem;
+  margin: 2rem 0 1rem;
+}
+
+.bread-calculator__intro,
+.bread-calculator__panel,
+.bread-calculator__card {
+  border: 1px solid rgba(111, 67, 34, 0.14);
+  border-radius: 1.25rem;
+  background:
+    linear-gradient(180deg, rgba(255, 252, 246, 0.96), rgba(245, 235, 218, 0.95));
+  box-shadow: 0 18px 40px rgba(74, 40, 19, 0.08);
+}
+
+.bread-calculator__intro {
+  padding: 1.5rem;
+  background:
+    radial-gradient(circle at top right, rgba(191, 108, 28, 0.16), transparent 32%),
+    linear-gradient(145deg, rgba(100, 58, 27, 0.95), rgba(145, 98, 54, 0.95));
+  color: #fff8f1;
+}
+
+.bread-calculator__intro--yeast {
+  background:
+    radial-gradient(circle at top right, rgba(221, 170, 74, 0.18), transparent 32%),
+    linear-gradient(145deg, rgba(111, 67, 34, 0.95), rgba(174, 122, 55, 0.95));
+}
+
+.bread-calculator__intro h2 {
+  margin-top: 0.2rem;
+  margin-bottom: 0.75rem;
+  color: inherit;
+}
+
+.bread-calculator__eyebrow {
+  margin: 0;
+  color: rgba(255, 245, 232, 0.82);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.bread-calculator__panel {
+  padding: 1.35rem;
+}
+
+.bread-calculator__grid,
+.bread-calculator__results-grid,
+.bread-calculator__summary {
+  display: grid;
+  gap: 1rem;
+}
+
+.bread-calculator__grid--top {
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+}
+
+.bread-calculator__field {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.bread-calculator__field > span {
+  font-size: 0.86rem;
+  font-weight: 700;
+  color: #6b4628;
+}
+
+.bread-calculator__input-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.15rem 0.8rem;
+  border: 1px solid rgba(111, 67, 34, 0.18);
+  border-radius: 999px;
+  background: rgba(255, 252, 247, 0.88);
+}
+
+.bread-calculator input,
+.bread-calculator select {
+  width: 100%;
+  border: 0;
+  background: transparent;
+  color: var(--bread-ink);
+  font: inherit;
+  min-width: 0;
+}
+
+.bread-calculator input:focus,
+.bread-calculator select:focus {
+  outline: none;
+}
+
+.bread-calculator__input-wrap:focus-within {
+  border-color: rgba(191, 108, 28, 0.75);
+  box-shadow: 0 0 0 4px rgba(191, 108, 28, 0.12);
+}
+
+.bread-calculator__input-wrap small {
+  flex: none;
+  color: rgba(63, 43, 29, 0.72);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.bread-calculator__flours {
+  margin-top: 1.5rem;
+}
+
+.bread-calculator__flour-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.75rem;
+  align-items: baseline;
+  margin-bottom: 0.85rem;
+}
+
+.bread-calculator__flour-header h3,
+.bread-calculator__card h3 {
+  margin: 0;
+}
+
+.bread-calculator__flour-header p {
+  margin: 0;
+  color: rgba(63, 43, 29, 0.72);
+  font-size: 0.92rem;
+}
+
+.bread-calculator__flour-table {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.bread-calculator__flour-row {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(120px, 1fr);
+  gap: 0.8rem;
+}
+
+.bread-calculator__flour-row--head {
+  color: rgba(63, 43, 29, 0.72);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0 0.3rem;
+}
+
+.bread-calculator__field--percent {
+  align-self: end;
+}
+
+.bread-calculator__status {
+  margin: 1rem 0 0;
+  min-height: 1.5rem;
+  color: #7b491e;
+  font-weight: 700;
+}
+
+.bread-calculator__summary {
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  margin-bottom: 1rem;
+}
+
+.bread-calculator__summary-card {
+  padding: 1rem;
+  border-radius: 1rem;
+  background: linear-gradient(180deg, rgba(255, 250, 242, 0.96), rgba(241, 225, 198, 0.92));
+  border: 1px solid rgba(111, 67, 34, 0.12);
+}
+
+.bread-calculator__summary-card span {
+  display: block;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(63, 43, 29, 0.68);
+}
+
+.bread-calculator__summary-card strong {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 1.2rem;
+  color: #5b3519;
+}
+
+.bread-calculator__results-grid {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.bread-calculator__card {
+  padding: 1.15rem;
+}
+
+.bread-calculator__metrics {
+  display: grid;
+  gap: 0.9rem;
+  margin: 1rem 0 0;
+}
+
+.bread-calculator__metrics div {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px dashed rgba(111, 67, 34, 0.18);
+}
+
+.bread-calculator__metrics dt {
+  color: rgba(63, 43, 29, 0.72);
+}
+
+.bread-calculator__metrics dd {
+  margin: 0;
+  font-weight: 700;
+  color: #5b3519;
+}
+
+.bread-calculator__card--table {
+  margin-top: 1rem;
+}
+
+.bread-calculator__table-wrap {
+  overflow-x: auto;
+}
+
+.bread-calculator__sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .bread-calculator__flour-row,
+  .bread-calculator__flour-row--head {
+    grid-template-columns: 1fr;
+  }
+
+  .bread-calculator__flour-row--head {
+    display: none;
+  }
+
+  .bread-calculator__panel,
+  .bread-calculator__intro,
+  .bread-calculator__card,
+  .bread-calculator-guide__card {
+    padding: 1rem;
+  }
+}
